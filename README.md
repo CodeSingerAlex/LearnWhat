@@ -17,3 +17,8 @@ Recording what I have learned or will learn.
 
 
 
+### SQL
+
+| [Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql) | ~    |
+| ------------------------------------------------------------ | ---- |
+
