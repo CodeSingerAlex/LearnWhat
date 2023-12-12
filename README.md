@@ -22,3 +22,10 @@ Recording what I have learned or will learn.
 | [Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql) | ~    |
 | ------------------------------------------------------------ | ---- |
 
+
+
+### VIM
+
+| [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc) | ✔️    |
+| ------------------------------------------------------------ | ---- |
+
