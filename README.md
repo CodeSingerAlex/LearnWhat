@@ -29,3 +29,10 @@ Recording what I have learned or will learn.
 | [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc) | ✔️    |
 | ------------------------------------------------------------ | ---- |
 
+
+
+### Web scraping
+
+| [Beautiful Soup Crash Course](https://www.youtube.com/watch?v=XVv6mJpFOb0) | ✔️    |
+| ------------------------------------------------------------ | ---- |
+
